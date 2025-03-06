@@ -5,35 +5,38 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 1. **Black Friday Sales Dataset** – Analyzing customer purchasing behavior during Black Friday sales.  
 2. **Zomato Dataset** – Understanding restaurant trends, ratings, and pricing factors.  
 3. **Flight Price Prediction Dataset** – Extracting insights to predict flight ticket prices based on multiple factors.
-4. **Netflix Content Analysis:**
+4. **Netflix Content Analysis:** - Exploring content trends, genre distribution, and movie/show insights.
 <br>
-### **Project Overview**
+## Project Overview:
 <br>
-* **EDA**: Data cleaning, handling missing values, visualizing distributions, and uncovering trends.
-* **Feature Engineering:** Creating new meaningful features, encoding categorical variables, and preparing data for modeling.  
-* **Visualizations:** Interactive and insightful plots using **Matplotlib, Seaborn**.  
 <br>
-### **Datasets Used:**
+* EDA: Data cleaning, handling missing values, visualizing distributions, and uncovering trends.
+* Feature Engineering: Creating new meaningful features, encoding categorical variables, and preparing data for modeling.  
+* Visualizations: Interactive and insightful plots using Matplotlib, Seaborn.  
 <br>
-#### **1. Black Friday Sales Dataset**  
 <br>
-* Analyzing purchase patterns based on **gender, age, occupation, and product categories**.  
+## Datasets Used:
+<br>
+<br>
+## 1. Black Friday Sales Dataset
+<br>
+* Analyzing purchase patterns based on gender, age, occupation, and product categories.  
 * Identifying high-value customers and most-purchased products.  
 * Handling missing values and encoding categorical features.  
 <br>
-#### **2️. Zomato Dataset** 
+## 2️. Zomato Dataset
 <br>
 * Exploring restaurant ratings, average cost, cuisines, and location-based trends.  
-* Feature engineering for **price category classification and rating improvement insights**.  
+* Feature engineering for price category classification and rating improvement insights.  
 * Data visualization to understand customer preferences across different cities.  
 <br>
-#### **3️. Flight Price Prediction Dataset**
+## 3️. Flight Price Prediction Dataset
 <br>
-* Analyzing factors affecting ticket prices, such as **airlines, departure time, and duration**.  
+* Analyzing factors affecting ticket prices, such as airlines, departure time, and duration.
 * Feature extraction from **date, time, and categorical variables**.  
 * Identifying key features for predictive modeling.  
 <br>
-#### **4. Netflix Dataset**
+## 4. Netflix Dataset
 <br>
 * It uses Exploratory Data Analysis and Feature Engineering.
 * Analysis Netflix dataset (ratings, genres, release years).  
@@ -41,9 +44,12 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 * Identifies factors influencing top-rated shows.
 <br>
 <br>
-###  **Tech Stack**
+## Tech Stack
 <br>
-* Python (pandas, numpy)  
+<br>
+* Python (pandas, numpy)
+<br>
 * Matplotlib, Seaborn 
+<br>
 <br>
 Feel free to fork, star, or contribute to this repo! Your feedback is always welcome.  
