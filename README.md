@@ -10,11 +10,11 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 ~ Project Overview:
 <br>
 <br>
-* EDA: Data cleaning, handling missing values, visualizing distributions, and uncovering trends.
+* EDA:  Data cleaning, handling missing values, visualizing distributions, and uncovering trends.
 <br>
-* Feature Engineering: Creating new meaningful features, encoding categorical variables, and preparing data for modeling.
+* Feature Engineering:  Creating new meaningful features, encoding categorical variables, and preparing data for modeling.
 <br>
-* Visualizations: Interactive and insightful plots using Matplotlib, Seaborn.  
+* Visualizations:  Interactive and insightful plots using Matplotlib, Seaborn.  
 <br>
 <br>
 ~ Datasets Used:
@@ -28,6 +28,7 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 <br>
 * Handling missing values and encoding categorical features.  
 <br>
+<br>
 2️. Zomato Dataset:
 <br>
 * Exploring restaurant ratings, average cost, cuisines, and location-based trends.
@@ -36,6 +37,7 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 <br> 
 * Data visualization to understand customer preferences across different cities.  
 <br>
+<br>
 3️. Flight Price Prediction Dataset:
 <br>
 * Analyzing factors affecting ticket prices, such as airlines, departure time, and duration.
@@ -43,6 +45,7 @@ Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysi
 * Feature extraction from date, time, and categorical variables.  
 <br>
 * Identifying key features for predictive modeling.  
+<br>
 <br>
  4. Netflix Dataset:
 <br>
