@@ -1,6 +1,6 @@
-## 📊 Exploratory Data Analysis & Feature Engineering on Multiple Datasets  
+##  Exploratory Data Analysis & Feature Engineering on Multiple Datasets  
 
-Welcome to my repository! 🚀 Here, I have performed **Exploratory Data Analysis (EDA) and Feature Engineering** on four diverse datasets:  
+Welcome to my repository! Here, I have performed **Exploratory Data Analysis (EDA) and Feature Engineering** on four diverse datasets:  
 
 1. **Black Friday Sales Dataset** – Analyzing customer purchasing behavior during Black Friday sales.  
 2. **Zomato Dataset** – Understanding restaurant trends, ratings, and pricing factors.  
